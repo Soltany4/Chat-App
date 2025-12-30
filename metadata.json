@@ -1,0 +1,5 @@
+{
+  "name": "Nexus Chat",
+  "description": "A professional, real-time collaboration platform featuring workspaces, channels, threads, and file sharing with a Slack-like interface.",
+  "requestFramePermissions": []
+}
